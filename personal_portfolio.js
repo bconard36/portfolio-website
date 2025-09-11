@@ -120,7 +120,7 @@ document.addEventListener("DOMContentLoaded", () => {
 // Display the other referral text area only if "Other" is selected 
 document.addEventListener("DOMContentLoaded", function () {
     const referralSelect = document.getElementById("referral-source");
-    const otherContainer = document.getElementById("other-container");
+    const otherContainer = document.getElementById("referral-container");
 
     referralSelect.addEventListener("change", function() {
         if (referralSelect.value === "Other") {
