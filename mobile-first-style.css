@@ -530,7 +530,16 @@ footer {
   }
 
   /* About Section */
+  .about-container .bio-text {
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+  }
 
+  .about-container .bio-text .column {
+    flex: 1 1 45%;
+  }
+  
   /* Skills Section */
   .skills-container {
     display: grid;
@@ -658,6 +667,15 @@ footer {
   }
 
   /* About Section */
+  .about-container .bio-text {
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+  }
+
+  .about-container .bio-text .column {
+    flex: 1 1 45%;
+  }
 
   .skills-container {
     display: grid;
