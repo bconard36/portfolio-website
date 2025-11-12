@@ -31,13 +31,12 @@ document.addEventListener("DOMContentLoaded", () => {
             ]
         },
         {
-            title: "Mobile E-Commerce Website Mockup",
+            title: "E-Commerce Website",
             image: "images/SkuSucks_ScreenShot.png",
-            description: "Currently designing & creating an e-commerce website for a client who owns a clothing business.",
-            process: "After collaboration meetings with my client, both low-fidelity and high-fidelity mock-ups were" + 
-            " updated and slight modifications were made to the source code to reflect the client's vision.",
-            outcome: "Still in process, outcomes will appear once the project is finished!",
-            link: "https://www.figma.com/design/dIfFZAlobZcwnenE2vjXud/SkuSuks-Wireframe?t=Ddis7IVUEBLafCh7-1",
+            description: "Currently designing and custom-coding an e-commerce website for a client who owns a clothing business.",
+            process: "Collaborating with the client, I refined designs and implemented updates in the site to reflect their vision.",
+            outcome: "The website is in progress, showcasing both design and development skills; live updates will reflect ongoing improvements.",
+            link: "https://bconard36.github.io/SkuSuks/",
             technologies: [
                 "Figma",
                 "HTML",
