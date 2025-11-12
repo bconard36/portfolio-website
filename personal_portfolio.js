@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
             " performed content inventory, and designed both low and high-fidelity mock-ups.",
             outcome: "A fully polished, mobile-optimized mock-up ready for developer hand-off." + 
             " Gained hands-on experience with the full UI/UX life-cycle using Figma.",
-            link: "https://www.figma.com/design/Xb952BTTvL3Vb9okv3n0q5/Burrito-Masala-Mockup?node-id=0-1&t=Ddis7IVUEBLafCh7-1",
+            link: "https://www.figma.com/design/Xb952BTTvL3Vb9okv3n0q5/Burrito-Masala-Mockup?node-id=0-1&t=DnLXOmpZt3ceccEN-1",
             technologies: [
                 "Figma"
             ]
@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
             process: "After collaboration meetings with my client, both low-fidelity and high-fidelity mock-ups were" + 
             " updated and slight modifications were made to the source code to reflect the client's vision.",
             outcome: "Still in process, outcomes will appear once the project is finished!",
-            link: "https://www.figma.com/design/dIfFZAlobZcwnenE2vjXud/SkuSuks-Wireframe?t=Ddis7IVUEBLafCh7-1",
+            link: "https://www.figma.com/design/dIfFZAlobZcwnenE2vjXud/SkuSuks-Wireframe?t=DnLXOmpZt3ceccEN-1",
             technologies: [
                 "Figma",
                 "HTML",
