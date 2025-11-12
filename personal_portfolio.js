@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
             " performed content inventory, and designed both low and high-fidelity mock-ups.",
             outcome: "A fully polished, mobile-optimized mock-up ready for developer hand-off." + 
             " Gained hands-on experience with the full UI/UX life-cycle using Figma.",
-            link: "https://www.figma.com/design/Xb952BTTvL3Vb9okv3n0q5/Burrito-Masala-Mockup?node-id=0-1&t=DnLXOmpZt3ceccEN-1",
+            link: "https://www.figma.com/design/Xb952BTTvL3Vb9okv3n0q5/Burrito-Masala-Mockup?node-id=0-1&t=Ddis7IVUEBLafCh7-1",
             technologies: [
                 "Figma"
             ]
@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
             " and applying course concepts to create a user-friendly experience.",
             outcome: "A polished, responsive website optimized for multiple devices." + 
             " Met all client and course requirements — and earned a perfect score.",
-            link: "https://bconard36.github.io/Portland-Historical-Tours/",
+            link: "https://github.com/bconard36/Portland-Historical-Tours",
             technologies:[
                 "HTML",
                 "CSS",
@@ -31,19 +31,31 @@ document.addEventListener("DOMContentLoaded", () => {
             ]
         },
         {
-            title: "Mobile E-Commerce Website",
+            title: "Mobile E-Commerce Website Mockup",
             image: "images/SkuSucks_ScreenShot.png",
             description: "Currently designing & creating an e-commerce website for a client who owns a clothing business.",
             process: "After collaboration meetings with my client, both low-fidelity and high-fidelity mock-ups were" + 
             " updated and slight modifications were made to the source code to reflect the client's vision.",
             outcome: "Still in process, outcomes will appear once the project is finished!",
-            link: "https://www.figma.com/design/dIfFZAlobZcwnenE2vjXud/SkuSuks-Wireframe?t=DnLXOmpZt3ceccEN-1",
+            link: "https://www.figma.com/design/dIfFZAlobZcwnenE2vjXud/SkuSuks-Wireframe?t=Ddis7IVUEBLafCh7-1",
             technologies: [
                 "Figma",
                 "HTML",
                 "CSS",
                 "JavaScript",
                 "VSCode"
+            ]
+        },
+        {
+            title: "Small Business Website Mockup",
+            image: "images/conardsWoodworksMobileScreenshot.png",
+            description: "A website design and mockup for a pitch deck presentation, showcasing both visual branding and UX strategy.",
+            process: "Layout and flow were developed in Figma, and Adobe InDesign was used to create professional, clear presentation materials.",
+            outcome: "A website design that highlights a friendly, functional approach suited for small businesses across different viewports.",
+            link: "https://www.figma.com/design/ayCF0BCkGPGEUI8mbUnYHG/Conard-s-Woodworks-Wireframe?t=DnLXOmpZt3ceccEN-1",
+            technologies: [
+                "Figma",
+                "Adobe InDesign"
             ]
         }
     ];
