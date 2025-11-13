@@ -3,16 +3,19 @@ document.addEventListener("DOMContentLoaded", () => {
     // Define and create my projects in an array
     const PROJECTS = [
         {
-            title: "Food Cart Mobile Website",
-            image: "images/cropped_burrito_masala.png",
-            description: "A mobile-first food cart website mockup built with Figma.",
-            process: "Gathered requirements, created user personas, stories and journeys," + 
-            " performed content inventory, and designed both low and high-fidelity mock-ups.",
-            outcome: "A fully polished, mobile-optimized mock-up ready for developer hand-off." + 
-            " Gained hands-on experience with the full UI/UX life-cycle using Figma.",
-            link: "https://www.figma.com/design/Xb952BTTvL3Vb9okv3n0q5/Burrito-Masala-Mockup?node-id=0-1&t=Ddis7IVUEBLafCh7-1",
+            title: "Fitness Metric Calculator Program",
+            image: "images/fitnessCalculator.png",
+            description: "A custom-coded fitness calculator program that computes BMI, BMR, and TDEE based on user input.",
+            process: "Originally developed in Python, the program was converted to JavaScript for web functionality, with input validation and dynamic calculations implemented to ensure accuracy.",
+            outcome: "A clean, functional, and interactive web program that allows users to calculate fitness metrics reliably.",
+            link: "https://bconard36.github.io/Fitness-Calculator-Programs/",
             technologies: [
-                "Figma"
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Python",
+                "VSCode",
+                "GitHub"
             ]
         },
         {
@@ -27,7 +30,8 @@ document.addEventListener("DOMContentLoaded", () => {
             technologies:[
                 "HTML",
                 "CSS",
-                "Brackets"
+                "Brackets",
+                "GitHub"
             ]
         },
         {
@@ -42,7 +46,21 @@ document.addEventListener("DOMContentLoaded", () => {
                 "HTML",
                 "CSS",
                 "JavaScript",
-                "VSCode"
+                "VSCode",
+                "GitHub"
+            ]
+        },
+        {
+            title: "Food Cart Mobile Website Mockup",
+            image: "images/cropped_burrito_masala.png",
+            description: "A mobile-first food cart website mockup built with Figma.",
+            process: "Gathered requirements, created user personas, stories and journeys," + 
+            " performed content inventory, and designed both low and high-fidelity mock-ups.",
+            outcome: "A fully polished, mobile-optimized mock-up ready for developer hand-off." + 
+            " Gained hands-on experience with the full UI/UX life-cycle using Figma.",
+            link: "https://www.figma.com/design/Xb952BTTvL3Vb9okv3n0q5/Burrito-Masala-Mockup?node-id=0-1&t=Ddis7IVUEBLafCh7-1",
+            technologies: [
+                "Figma"
             ]
         },
         {
