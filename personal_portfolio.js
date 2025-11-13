@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
             " and applying course concepts to create a user-friendly experience.",
             outcome: "A polished, responsive website optimized for multiple devices." + 
             " Met all client and course requirements — and earned a perfect score.",
-            link: "https://github.com/bconard36/Portland-Historical-Tours",
+            link: "https://bconard36.github.io/Portland-Historical-Tours/",
             technologies:[
                 "HTML",
                 "CSS",
