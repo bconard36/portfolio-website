@@ -231,6 +231,11 @@ hr {
   text-align: center;
 }
 
+.skill-icon-wrapper svg {
+  width: 200px;
+  height: 200px;
+}
+
 .skill-icon-wrapper.uiux {
   display: inline-flex;
   flex-direction: row;
@@ -261,10 +266,6 @@ hr {
   visibility: visible;
   opacity: 1;
   max-height: 100px;
-}
-
-.communication-skill {
-  transform: translateY(-15px);
 }
 
 /* Style Rules for Education Section */
@@ -409,6 +410,13 @@ body.light-mode .project-card a {
   font-size: 2rem;
 }
 
+.contact legend {
+  display: table;
+  margin: 0 auto;
+  padding: 0 10px;
+  text-align: center;
+}
+
 #referral-container {
   display: none;
   text-align: center;
@@ -479,7 +487,7 @@ body.light-mode .project-card a {
 .socials svg {
   width: 80px;
   height: auto;
-  transition: transforom 0.3s ease;
+  transition: transform 0.3s ease;
 }
 
 /* Style Rules for Footer Content */
@@ -560,7 +568,7 @@ footer {
     grid-template-columns: repeat(2, 1fr);
     gap: 40px;
     justify-items: center;
-    align-items: start;
+    align-items: stretch;
     justify-content: space-between;
   }
 
@@ -570,6 +578,7 @@ footer {
     align-items: center;
     justify-content: center;
     height: auto;
+    align-self: stretch;
   }
 
   .skill-icon-wrapper.uiux {
@@ -593,10 +602,6 @@ footer {
 
   .skills figcaption {
     font-size: 1.1rem;
-  }
-
-  .communication {
-    transform: translateY(-15px);
   }
 
   /* Education Section */
