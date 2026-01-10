@@ -74,6 +74,20 @@ document.addEventListener("DOMContentLoaded", () => {
                 "Figma",
                 "Adobe InDesign"
             ]
+        },
+        {
+            title: "Data Analytics Projects",
+            image: "images/Python-and-SQL.png",
+            description: "A centralized repository of data analytics projects showcasing Tableau, Python and SQL skills.",
+            process: `SQL was used for querying and transforming data, Python for data manipulation and analysis, and 
+            Tableau for building interactive dashboards and visual insights.`,
+            outcome: "A diverse set of completed projects demonstrating practical experience with real-world data sets.",
+            link: "https://github.com/bconard36/Data_Analytics_Projects/tree/main",
+            technologies: [
+                "SQL (DataGrip)",
+                "Python (Anaconda, JupyterLab)",
+                "Tableau"
+            ]
         }
     ];
     // Select the container in the HTML
