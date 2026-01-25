@@ -109,6 +109,7 @@ hr {
   width: 100px;
   font-size: 0.75rem;
   border-radius: 8px;
+  cursor: pointer;
 }
 
 .light-mode {
@@ -205,6 +206,7 @@ hr {
 
 #skills figcaption {
   font-size: 1rem;
+  cursor: pointer;
 }
 
 .icon-fill {
@@ -353,6 +355,7 @@ hr {
   transition: transform 0.2s ease;
   display: flex;
   flex-direction: column;
+  cursor: pointer;
 }
 
 .project-card:hover {
@@ -450,6 +453,7 @@ body.light-mode .project-card a {
   display: block;
   margin: 0 auto;
   margin-top: 7.5px;
+  cursor: pointer;
 }
 
 .message {
