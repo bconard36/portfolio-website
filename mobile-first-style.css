@@ -157,6 +157,7 @@ hr {
   border-radius: 8px;
   background-color: #C2B280;
   text-align: center;
+  cursor: pointer;
 }
 
 #greet-message {
